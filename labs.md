@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Labs
-permalink: /about/
+permalink: /labs/
 ---
 
 Some experiments!
