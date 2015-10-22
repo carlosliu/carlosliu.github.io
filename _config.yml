@@ -6,7 +6,7 @@
 name: Carlos Liu
 
 # Short bio or description (displayed in the header)
-description: Software developer, Space nerd
+description: Software developer, Space nerd, Homo economicus wannabe
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/carlosliu/carlosliu.github.io/master/images/moon.jpg
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/carlosliu/carlosliu.github.io/master/i
 footer-links:
   dribbble:
   email:
-  facebook: carlos.liu
+  facebook:
   flickr:
   github: carlosliu
   instagram: carlosliu
