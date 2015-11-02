@@ -6,10 +6,10 @@ permalink: /lab/
 
 Some experimental projects!
 
-### <span class="mega-octicon octicon-beaker"></span> [MyFeed](http://lab.carlosliu.net/myfeed) (WIP)
+### <span class="mega-octicon octicon-beaker"></span> [cpFeed](http://lab.carlosliu.net/cpfeed) (Angular2/TypeScript/Node.js/MongoDB)
 
-An Angular2/TypeScript project to generate customized podcast feeds from various online resources.
+A customized podcast feeds generator based on various online resources (support YouTube list for now).
 
-### <span class="mega-octicon octicon-beaker"></span> MediBell (Coming soon)
+### <span class="mega-octicon octicon-beaker"></span> MediBell (React/ES6/Firebase)
 
-A minimal React/ES6 project to help people manage and track their medicine every day.
+A project to help people managing and tracking medicine usage every day.
