@@ -10,7 +10,7 @@ Here are some experimental projects that I am working on.
 
 Converting various online resources (support YouTube list for now) into audio podcast feed.
 
-- Frontend: Angular2, TypeScript
+- Frontend: Angular2, TypeScript and [Pure CSS](http://purecss.io/)
 - Backend: Node.js, MongoDB (Work in Progress)
 
 ### <span class="mega-octicon octicon-beaker"></span> [MediBell](http://medibell.carlosliu.net) - (Coming soon)
