@@ -29,7 +29,7 @@ title: Angular2 Quick Notes
 | `restrict: 'E'` | `selector: 'app'` |
 | `restrict: 'C'` | `selector: '.class'` |
 | `ng-transclude` | `<ng-content>`[^t] or [`<content>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content)[^sd] |
-{: .pure-table .pure-table-striped }
+{: .pure-table .pure-table-bordered }
 
 ## 1.x to 2 Migration
 -  [ngUpgrade](https://github.com/angular/ngUpgrade)
