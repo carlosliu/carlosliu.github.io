@@ -19,7 +19,7 @@ title: Angular2 Quick Notes
 | `restrict: 'E'` | `selector: 'app'` |
 | `restrict: 'C'` | `selector: '.class'` |
 | `ng-transclude` | `<ng-content>` or `<content>`[^content] |
-{: .pure-table .pure-table-striped }
+{: class="pure-table pure-table-striped" }
 
 # Resources
 1. [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
