@@ -36,7 +36,7 @@ This is a list of userful notes about Angular2 development for my own need. A mo
 | `restrict: 'E'` | `selector: 'app'` |
 | `restrict: 'C'` | `selector: '.class'` |
 | `ng-repeat` | `ng-for` |
-| `ng-transclude` | `<ng-content>` or [`<content>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content)[^sd][^t][^ve] |
+| `ng-transclude` | `<ng-content>` or [`<content>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content)[^sd] [^t] [^ve] |
 {: .pure-table .pure-table-bordered }
 
 ## 1.x to 2 Migration
