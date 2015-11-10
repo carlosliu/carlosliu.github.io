@@ -3,8 +3,27 @@ layout: page
 title: Angular2 Quick Notes
 ---
 
-## Overview
+# Overview
+<!-- No more `scope` -->
 
-## New Features
+# Features
 
-## Compare to 1.x
+### HTTP/RxJS
+
+# 1.x to 2
+
+| AngularJS 1.x | Angular2 |
+|---------------|----------|
+| [^1bootstrap] | `bootstrap()`[^2bootstrap] |
+| `restrict: 'A'` | `selector: '[attribute]'` |
+| `restrict: 'E'` | `selector: 'app'` |
+| `restrict: 'C'` | `selector: '.class'` |
+| `ng-transclude` | `<ng-content>` or `<content>`[^content] |
+
+# Resources
+1. [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
+1. [Angular2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
+
+[^1bootstrap] https://code.angularjs.org/1.4.7/docs/guide/bootstrap  
+[^2bootstrap] https://github.com/angular/angular/blob/master/modules/angular2/src/core/application_common.ts#L100  
+[^content] https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content  
