@@ -14,12 +14,12 @@ title: Angular2 Quick Notes
 
 | AngularJS 1.x | Angular2 |
 |---------------|----------|
-| `angular.bootstrap`[^1] | `bootstrap()`[^2] |
+| [`angular.bootstrap`](https://code.angularjs.org/1.4.7/docs/api/ng/function/angular.bootstrap) | [`bootstrap()`](https://github.com/angular/angular/blob/master/modules/angular2/src/core/application_common.ts#L100) |
 | `restrict: 'A'` | `selector: '[attribute]'` |
 | `restrict: 'E'` | `selector: 'app'` |
 | `restrict: 'C'` | `selector: '.class'` |
-| `ng-transclude` | `<ng-content>` or `<content>`[^content] |
-{: class="pure-table pure-table-striped" }
+| `ng-transclude` | `<ng-content>` or [`<content>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content) |
+{: .pure-table .pure-table-striped }
 
 # Resources
 1. [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
