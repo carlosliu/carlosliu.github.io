@@ -3,14 +3,14 @@ layout: page
 title: Angular2 Quick Notes
 ---
 
-# Overview
+## Overview
 <!-- No more `scope` -->
 
-# Features
+## Features
 
 ### HTTP/RxJS
 
-# 1.x to 2
+## 1.x to 2
 
 | AngularJS 1.x | Angular2 |
 |---------------|----------|
@@ -21,11 +21,11 @@ title: Angular2 Quick Notes
 | `ng-transclude` | `<ng-content>`[^transclusion] or [`<content>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content)[^shadowdom] |
 {: .pure-table .pure-table-striped }
 
-# Resources
+## Resources
 1. [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
 1. [Angular2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
 
-
+## Footnotes
 [^2]: [Bootstrapping for Angular applications](https://github.com/angular/angular/blob/master/modules/angular2/src/core/application_common.ts#L100)
 [^transclusion]: [“Transclusion” in Angular 2](http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/)
 [^shadowdom]: [Shadow DOM feature in Web Components](http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/)
