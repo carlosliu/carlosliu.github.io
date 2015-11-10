@@ -12,14 +12,14 @@ title: Angular2 Quick Notes
 
 # 1.x to 2
 
-{: .pure-table .pure-table-striped}
 | AngularJS 1.x | Angular2 |
 |---------------|----------|
 | `angular.bootstrap`[^1] | `bootstrap()`[^2] |
 | `restrict: 'A'` | `selector: '[attribute]'` |
 | `restrict: 'E'` | `selector: 'app'` |
 | `restrict: 'C'` | `selector: '.class'` |
-| `ng-transclude` | `<ng-content>` or `<content>`[^c] |
+| `ng-transclude` | `<ng-content>` or `<content>`[^content] |
+{: .pure-table .pure-table-striped }
 
 # Resources
 1. [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
