@@ -26,7 +26,7 @@ This is a list of
 #### Zone.js
 - [zone.js](https://github.com/angular/zone.js/)
 
-## 1.x vs 2 Differences
+## 1.x vs 2 Syntax Differences
 
 | AngularJS 1.x | Angular2 |
 |---------------|----------|
@@ -34,6 +34,7 @@ This is a list of
 | `restrict: 'A'` | `selector: '[attribute]'` |
 | `restrict: 'E'` | `selector: 'app'` |
 | `restrict: 'C'` | `selector: '.class'` |
+| `ng-repeat` | `ng-for` |
 | `ng-transclude` | `<ng-content>` or [`<content>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content)[^sd][^t][^ve] |
 {: .pure-table .pure-table-bordered }
 
