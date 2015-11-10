@@ -5,7 +5,8 @@ title: Angular2 Quick Notes
 
 ## Overview
 
-This is a list of 
+This is a list of userful notes about Angular2 development for my own need. A more completed list can be found at [awesome-angular2](https://github.com/AngularClass/awesome-angular2).
+
 <!-- No more `scope` -->
 <!-- performance -->
 <!-- universal/isomorphic/server side rendering -->
@@ -41,8 +42,6 @@ This is a list of
 ## 1.x to 2 Migration
 -  [ngUpgrade](https://github.com/angular/ngUpgrade)
 
-## Resources
-- [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
 
 ## Footnotes
 [^bs]: [Bootstrapping for Angular applications](https://github.com/angular/angular/blob/master/modules/angular2/src/core/application_common.ts#L100)
