@@ -16,6 +16,7 @@ This is a list of userful notes about Angular2 development for my own need. A mo
 #### TypeScript
 - [Handbook](http://www.typescriptlang.org/Handbook)
 - [ES7 Decorator](https://github.com/wycats/javascript-decorators) and [TypeScript Decorator](https://github.com/Microsoft/TypeScript/issues/2249)
+
 <!-- Compare TypeScript and Flow features https://github.com/Microsoft/TypeScript/issues/1265 -->
 
 #### Change Detection
